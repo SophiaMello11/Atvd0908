@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Atvd0908/1.0.0": {
+        "runtime": {
+          "Atvd0908.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atvd0908/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
